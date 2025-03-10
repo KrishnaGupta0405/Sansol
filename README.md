@@ -1,1 +1,1 @@
-Contains all the file and code related to SanSol
+Contains all the file and code related to SanSol.
