@@ -1,0 +1,13 @@
+pytessearct show less than 10% accuracy
+pypdf is almost same
+chagot has 30% thick text like that of marker writtern text
+ocr text recoginition has arrived to ~50%
+
+API
+google cloud -> free $300 credits for 90 days, require payment option
+chatGPT-> it is also paid some peeny for each 1k tokens
+Microsoft Copilot-> locally on the desktop is excellet i.e. 100% accuracy
+	but require to do all the process manually,
+	Also no local file of Microsoft Copilot found, so as to automate the process using pyguitouch library
+
+NVIDIA AI-> i.e. stored locally in the laptop
